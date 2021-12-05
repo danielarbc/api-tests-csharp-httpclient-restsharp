@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroserviceAutomation", "MicroserviceAutomation\MicroserviceAutomation.csproj", "{F451E2E3-957B-462A-BE88-86903A2B86A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpAutomation", "RestSharpAutomation\RestSharpAutomation.csproj", "{68008119-1312-4356-966D-A14FBBBECDDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F451E2E3-957B-462A-BE88-86903A2B86A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F451E2E3-957B-462A-BE88-86903A2B86A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F451E2E3-957B-462A-BE88-86903A2B86A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F451E2E3-957B-462A-BE88-86903A2B86A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68008119-1312-4356-966D-A14FBBBECDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68008119-1312-4356-966D-A14FBBBECDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68008119-1312-4356-966D-A14FBBBECDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68008119-1312-4356-966D-A14FBBBECDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82AB0E3D-2163-4979-8034-9E8C55282DB6}
+	EndGlobalSection
+EndGlobal
